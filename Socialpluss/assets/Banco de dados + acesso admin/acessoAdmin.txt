@@ -1,0 +1,2 @@
+admin@socialplus.com
+senha: abcdefg
