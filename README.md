@@ -4,6 +4,11 @@ Repositorio focado para a materia Pratica Profissional em ADS da [Universidade P
 
 Grupo: Larissa Silveira,Leticia Portugal, Victor Garcia e Thiago Meggiolaro
 
+#### Funcionalidades escolhidas: Cadastro e Login (entrada), Avaliar para meus Likes (processamento) e dashboard na pagina do Admin (saída).
+
+### Link Youtube 
+[Apresentaçāo do trabalho](https://youtu.be/X5aXMFFqTKM)
+
 ## Organização 
 
 Nós separamos o repositório em  duas branch Nota1 (Já entregue) e Nota2 (Para avaliaçāo)
@@ -30,5 +35,3 @@ Protótipo/ Wireframe ATUALIZADOS - um documento pdf com as telas ja personaliza
 
 
 Alguns arquivos estão ligados com a main para o versionamento e atualizar automaticamente com a [nuvem](http://socialpluss.epizy.com/Socialpluss/social/index.php?home)
-
- 
