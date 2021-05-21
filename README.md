@@ -4,11 +4,10 @@ Repositorio focado para a materia Pratica Profissional em ADS da [Universidade P
 
 Grupo: Larissa Silveira,Leticia Portugal, Victor Garcia e Thiago Meggiolaro
 
-Funcionalidades escolhidas: Cadastro e Login (entrada), Avaliar para meus Likes (processamento) e dashboard na pagina do Admin (saída).
+#### Funcionalidades escolhidas: Cadastro e Login (entrada), Avaliar para meus Likes (processamento) e dashboard na pagina do Admin (saída).
 
-### Login Admin
-Email: admin@socialplus.com
-senha: abcdefg
+### Link Youtube 
+[Apresentaçāo do trabalho](https://youtu.be/X5aXMFFqTKM)
 
 ## Organização 
 
