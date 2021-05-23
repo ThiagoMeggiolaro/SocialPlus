@@ -27,7 +27,9 @@ Protótipo/ Wireframe - um documento pdf com as telas ja personalizas.
 
 Diagramas ATUALIZADOS -  Diagrama WBS, Diagrama de Domínio, Diagrama de caso de uso, diagrama de sequencia e Modelo Relacional 
 
-Especificação - Especificação de caso de uso, Fichas, Analise SWOT e Plano de teste
+Especificação - Especificação de caso de uso, Fichas, Analise SWOT 
+
+Plano de teste - Plano de teste 
 
 Socialpluss - Código da aplicaçāo inteira. 
 
