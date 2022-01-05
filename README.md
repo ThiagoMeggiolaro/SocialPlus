@@ -36,4 +36,4 @@ Socialpluss - Código da aplicaçāo inteira.
 Protótipo/ Wireframe ATUALIZADOS - um documento pdf com as telas ja personalizas
 
 
-Alguns arquivos estão ligados com a main para o versionamento e atualizar automaticamente com a [nuvem](http://socialpluss.epizy.com/Socialpluss/social/index.php?home)
+Era vinculado a uma nuvem em um site mas tiramos do ar.
